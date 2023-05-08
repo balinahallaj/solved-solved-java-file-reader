@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-java-file-reader
+<br>
+Create your own data file consisting of integer, double or String values. Create your own unique Java application to read all data from the file echoing the data to standard output. After all data has been read, display how many data were read. For example, if 10 integers were read, the application should display all 10 integers and at the end of the output, print “10 data values were read” Demonstrate your code compiles and runs without issue
